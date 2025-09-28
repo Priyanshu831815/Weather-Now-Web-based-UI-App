@@ -1,3 +1,5 @@
+# Weather App Now 🌤️
+
 A simple and interactive *React Weather App* that allows users to search for the current weather of any city using the *Open-Meteo API*. The app displays temperature, wind speed, and other weather details in a clean and responsive UI.
 
 ---
